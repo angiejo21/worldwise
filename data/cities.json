@@ -35,6 +35,66 @@
         "lng": 13.376933665713324
       },
       "id": 98443197
+    },
+    {
+      "cityName": "Jeu-les-Bois",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-15T09:56:01.942Z",
+      "notes": "Test",
+      "position": {
+        "lat": "46.6795944656402",
+        "lng": "1.7578125000000002"
+      },
+      "id": 98443198
+    },
+    {
+      "cityName": "Jeu-les-Bois",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-01-15T09:56:01.942Z",
+      "notes": "Test",
+      "position": {
+        "lat": "46.6795944656402",
+        "lng": "1.7578125000000002"
+      },
+      "id": 98443199
+    },
+    {
+      "cityName": "Rosenau am Hengstpass",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-01-15T10:01:20.134Z",
+      "notes": "hola",
+      "position": {
+        "lat": "47.724544549099676",
+        "lng": "14.458007812500002"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Velika Ludina",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2024-01-15T10:03:58.950Z",
+      "notes": "hola",
+      "position": {
+        "lat": "45.61403741135093",
+        "lng": "16.611328125000004"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Petra",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-01-15T10:06:38.066Z",
+      "notes": "beach",
+      "position": {
+        "lat": "39.57182223734374",
+        "lng": "3.09814453125"
+      },
+      "id": 98443202
     }
   ]
 }
